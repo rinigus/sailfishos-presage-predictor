@@ -30,7 +30,7 @@ BuildRequires:  pkgconfig(Qt5DBus)
 BuildRequires:  pkgconfig(sqlite3)
 BuildRequires:  libpresage-devel
 BuildRequires:  libmarisa-devel
-Conflicts:   presage-data
+Obsoletes:   presage-data
 
 %description
 Keyboard prediction plugin based on the Presage prediction engine

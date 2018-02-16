@@ -37,7 +37,7 @@ Requires:
   - sailfishsilica-qt5 >= 0.10.9 
   - jolla-keyboard
 
-Conflicts:
+Obsoletes:
   - presage-data
 
 # All installed files
